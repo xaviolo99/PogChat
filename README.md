@@ -1,5 +1,5 @@
 # PogChat
-Developed at HackUPC in 2017.
+Developed at HackUPC Fall in 2017.
 
 It helps imaginBank clients, through a Python bot that communicates with the Telegram API through a php script.
 
