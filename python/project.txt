@@ -1,0 +1,39 @@
+Translator:
+Convert a message to a standarized order.
+
+Detect isolated numbers
+Synonyms Neural Network // classifies a phrase in one of some categories
+
+
+1.- Receive message
+2.- Dissect message in individual words (excluding and saving apart nums)
+3.- Each word has a probability value distribution for each possible function, we sum all these values and the function which have the highest probability distribution
+will be executed
+4.-"x€ will be transferred to y"
+"Is this what you want to do?" (Yes or No)
+"Introduce the number which corresponds to what you wanted to do:"
+"1 x 2 y 3 z"
+5.- Execute changes in the account and the probability distribution depending on the users answer
+6.- Notify the user and thank him.
+
+
+
+while(always)
+
+receive message
+
+receive confirmation message
+
+/////////////////// deposit or debit
+
+1 Consultar saldo
+2 Ver ultimos x movimientos
+3 Ver ultimos x ingresos
+4 Ver ultimos x gastos
+5 Ver mis tarjetas
+6 Publicidad/Shop by compta estrella
+
+7 Dar dinero a x
+8 Retirar dinero
+9 Pedir prestamo de x euros
+10 Recargar movil 
